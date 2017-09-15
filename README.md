@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
@@ -43,3 +44,7 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 ## License
 
 [CC0 1.0 (Public Domain)](LICENSE.md)
+=======
+# Exploration-1
+Exploration into turning a webpage into a desktop application for CS4830
+>>>>>>> 087eeaa6b015a93c1ff075fa799c97b93b3fe44e
